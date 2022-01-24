@@ -1,6 +1,5 @@
 import requests
-import json, csv
-import re
+import csv
 import time
 
 
