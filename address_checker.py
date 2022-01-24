@@ -46,9 +46,9 @@ def check_addresses():
                     row.append("Not Valid 2")
             else:
                 row.append("Not Valid")
-            time.sleep(2)
-
+                
             writer.writerow(row)
+            time.sleep(2)
 
 
 if __name__ == "__main__":
