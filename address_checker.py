@@ -53,7 +53,3 @@ def check_addresses():
 
 if __name__ == "__main__":
     check_addresses()
-
-
-
-
